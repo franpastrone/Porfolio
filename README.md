@@ -19,11 +19,6 @@ En base a la propuesta de Curso dicatado por Alura Latam - Oracle
 
 
 ### Para concluir el proyecto en este Challenge debí:
----
-1) Publicar el proyecto en GitHub
-2) Publicarlo en GitHub Pages: [¿Cómo publicar mi proyecto con GitHub Pages?](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-3) Utilizar el tema/topic challengeoneportafoliolatam2 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub incluye la etiqueta "#challengeoneportafoliolatam2"
-
-<a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+ Acá les dejo un para que puedan ver.
+ 
+ https://youtu.be/qjZH4ryRG0o
