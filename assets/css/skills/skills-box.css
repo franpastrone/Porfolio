@@ -1,0 +1,17 @@
+.skills__box {
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    width: 176px;
+    height: 174px;
+    margin:0.35rem;
+}
+
+.skills__box ul li{
+    position: relative;
+    top: 87px;
+    left:-25px;
+    list-style: none;
+    align-items: baseline;
+    
+}

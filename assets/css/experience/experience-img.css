@@ -1,0 +1,23 @@
+.image_container{
+    height: 406px;
+    width: 752px;
+    position: relative;
+}
+
+.image_container img{
+    width: 100%;
+    height: 100%;
+
+}
+
+.experience__img--transicion{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+} 
+
+.experience__img--transicion:hover{
+    opacity: 1;
+}

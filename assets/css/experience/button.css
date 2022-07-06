@@ -1,0 +1,22 @@
+.experience__botao--demo{
+    font-family: Raleway;
+    color: #EDEDED;
+    margin: 12px;  
+    padding: 12px;
+    background-color: #2a7ae4;
+    border-radius: 0px;
+    border: none;
+
+}
+
+
+
+.experiencia__botao--repo{
+    font-family: Raleway;
+    color: #2a7ae4;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 0px;
+    border: 2px solid #2a7ae4;
+
+}

@@ -1,0 +1,38 @@
+.formcontato__form{
+    width: 652px;
+    margin: 0 auto;
+    display: block;
+    text-align: left;
+}
+
+.formcontato__input {
+    display: block;
+    font-size: 12px;
+    font-family: Raleway;
+    color: #a2a2a2;
+    margin: 0 0 10px;
+    width: 656px;
+    height: 56px;
+    border: none;
+}
+
+.formcontato__textarea{
+    margin: 40px 0;
+    padding: 10px 25px;
+    font-size: 12px;
+    font-family: Raleway;
+    color: #a2a2a2;
+    width: 656px;
+    border: none;
+}
+
+.formcontato__botao{
+    font-family: Raleway;
+    color: #EDEDED;
+    margin: 12px;  
+    padding: 12px;
+    background-color: #2a7ae4;
+    border-radius: 0px;
+    border: none;
+
+}

@@ -1,0 +1,23 @@
+.experience__box{
+    display: flex;
+    width: 1136px;
+    margin: auto;
+    padding: 5px 5px 45px 5px;
+}
+
+.experience__box__dos{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1136px;
+    margin: auto;
+    padding: 5px 5px 45px 5px;
+}
+
+.experience__box__cuatro{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1136px;
+    margin: auto;
+    padding: 5px 5px 45px 5px;
+}
+
