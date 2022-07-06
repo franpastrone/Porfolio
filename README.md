@@ -23,6 +23,6 @@ En base a la propuesta de Curso dicatado por Alura Latam - Oracle
  Acá les dejo un para que puedan ver.
 
 <p align="center" >
-     <video src="https://www.youtube.com/embed/qjZH4ryRG0o" controls></video>
+https://www.youtube.com/embed/qjZH4ryRG0o
 </p>
-</body>
+
