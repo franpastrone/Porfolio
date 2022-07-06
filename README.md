@@ -22,5 +22,5 @@ En base a la propuesta de Curso dicatado por Alura Latam - Oracle
  Acá les dejo un para que puedan ver.
 
 <p align="center" >
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qjZH4ryRG0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <video src="https://www.youtube.com/embed/qjZH4ryRG0o" controls></video>
 </p>
